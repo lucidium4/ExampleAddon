@@ -23,3 +23,9 @@
 "classname" "ev_day"
 "origin" "8 40 24"
 }
+// entity 3
+{
+"classname" "npc"
+"origin" "-40 -40 24"
+"script" "Test.gd"
+}
